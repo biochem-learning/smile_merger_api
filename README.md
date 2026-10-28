@@ -34,7 +34,5 @@ python -m pip install -r requirements.txt
 
 ## Acknoledgement
 
-This project uses [RDKit](https://www.rdkit.org/), distributed under the BSD 3-Clause License.
-
-Copyright © 2006–2015 Rational Discovery LLC, Greg Landrum, Julie Penzotti, and others.
+This project uses [RDKit](https://www.rdkit.org/), licensed under the BSD 3-Clause License.
 
