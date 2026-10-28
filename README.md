@@ -38,4 +38,3 @@ This project uses [RDKit](https://www.rdkit.org/), distributed under the BSD 3-C
 
 Copyright © 2006–2015 Rational Discovery LLC, Greg Landrum, Julie Penzotti, and others.
 
-See [`THIRD_PARTY_LICENSES/RDKit.txt`](THIRD_PARTY_LICENSES/RDKit.txt) for the complete license.
